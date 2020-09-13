@@ -6,7 +6,7 @@ One very good way to contribute is to supply test cases that verify that the fun
 
 If something was hard to find or understand, but you've now got it, please contribute documentation.
 
-Any/all contributions should be done via pull requests and before opening a PR consider:
+Any/all code contributions should be done via pull requests, and before opening a PR consider:
 
 - Is the change being proposed clearly explained and motivated?
 - Is it ready for review?
@@ -20,8 +20,6 @@ state this explicitly, by submitting any copyrighted material via pull request, 
 other means you agree to license the material under the project's open source license and
 warrant that you have the legal authority to do so.
 
-GitHub automatically keeps track of who contributed what, and if you've made a significant contribution to any individual class/file you may add yourself as an `@author` (javadoc). Other than that leave your name, e-mail or GitHub id out.
-
 ## Code Style and Conventions
 
 - Just make an effort to write code in line with what is already there (regardless of how you believe things should have been).
@@ -30,6 +28,10 @@ GitHub automatically keeps track of who contributed what, and if you've made a s
 ## Release Notes
 
 Each project keeps a changelog on a format inspired by [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). PR:s should also contain relevant updates to that log.
+
+## Attribution
+
+GitHub automatically keeps track of who contributed what, and if you've made a significant contribution to any individual class/file you may add yourself as an `@author` (javadoc). Other than that leave your name, e-mail or GitHub id out.
 
 ### Existing Tests
 
