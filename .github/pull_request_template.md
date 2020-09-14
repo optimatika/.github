@@ -10,7 +10,7 @@ assignees: ''
 Before you sumit this issue; did you try with the latest version?!
 
 **Describe the PR**
-3:d A clear and concise description of what the bug is.
+A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
