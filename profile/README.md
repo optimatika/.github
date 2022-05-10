@@ -1,4 +1,4 @@
-[![Optimatika](https://www.optimatika.se/wp-content/uploads/2019/04/logo_liggande_99a690.png)]
+![Optimatika](https://www.optimatika.se/wp-content/uploads/2019/04/logo_liggande_99a690.png)
 
 
 <!--
