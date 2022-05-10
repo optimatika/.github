@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Optimatika](https://www.optimatika.se/wp-content/uploads/2019/04/logo_liggande_99a690.png)]
+
 
 <!--
 **apete/apete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
