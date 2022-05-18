@@ -1,3 +1,5 @@
+[<img src="https://camo.githubusercontent.com/3ef903c4d4ddd41eebade3bd05adcde69c7d13e7e88e4d6ed729ee10963d381b/68747470733a2f2f7777772e6f7074696d6174696b612e73652f77702d636f6e74656e742f75706c6f6164732f323031392f30342f6c6f676f5f6c696767616e64655f3939613639302e706e6723333378323330" alt="Optimatika" height="60" align="right">](https://www.optimatika.se/)
+
 - Looking for ojAlgo support?
 
 - Need help to develop some feature based on ojAlgo?
@@ -17,5 +19,3 @@ Many organisation and development teams find it difficult to recruit talent.
 If you have, or plan to get, a dependency on ojAlgo AND is in need of additional developers, Optimatika can help you!
 
 The best way, for you, to assert continued development of ojAlgo is to team up with Optimatika.
-
-[<img src="https://camo.githubusercontent.com/3ef903c4d4ddd41eebade3bd05adcde69c7d13e7e88e4d6ed729ee10963d381b/68747470733a2f2f7777772e6f7074696d6174696b612e73652f77702d636f6e74656e742f75706c6f6164732f323031392f30342f6c6f676f5f6c696767616e64655f3939613639302e706e6723333378323330" alt="Optimatika" height="60" align="right">](https://www.optimatika.se/)
