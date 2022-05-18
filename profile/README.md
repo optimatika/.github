@@ -34,4 +34,6 @@ The best way, for you, to assert continued development of ojAlgo is to team up w
 
 
 <img src="https://www.optimatika.se/wp-content/uploads/2019/04/logo_liggande_99a690.png" alt="Optimatika" style="max-width: 100;">
+<div style="width: 200;">
 <img src="https://www.optimatika.se/wp-content/uploads/2019/04/logo_liggande_99a690.png" alt="Optimatika" style="width: 100;">
+</div>
