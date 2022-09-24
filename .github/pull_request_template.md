@@ -1,28 +1,6 @@
----
-name: Pull Request
-about: Create a PR with your contribution
-title: ''
-labels: ''
-assignees: ''
-
----
-
-Before you sumit this issue; did you try with the latest version?!
-
 **Describe the PR**
-A clear and concise description of what the bug is.
+A clear and concise description of what the PR is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. ...
-2. ...
-3. ...
-
-**Test Case**
-If possile, write a test that demonstrates the problem.
-
-**Additional context**
-Add any other context about the problem here.
-
-**Pull Request**
-If you know how to fix the problem, then also provide a PR with a suggested fix.
+**Test Cases**
+- If there was a problem that this PR fixes; is there a test that failed before and now passes?
+- If this is new functionality; is there some tests that verify, at least the basiscs, of what's new?
