@@ -6,7 +6,7 @@
 
 - Perhaps not completely up to date on the math or modeling needed?
 
-- Want a skillful and experineced developer to join yopur team?
+- Want a skillful and experineced developer to join your team?
 
 # Optimatika can help with ALL those things!
 
