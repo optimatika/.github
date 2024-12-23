@@ -10,7 +10,7 @@
 
 # Optimatika can help with ALL those things!
 
-ojAlgo exists because, a long time ago, one of Optimatika's clients needed a (pure Java) QP solver. None were available, so we decided to build one. Since then ojAlgo has grown immensely in scope and capabilities. Over the years, maintenance and further development has in part been sponsored by various client projects, but mainly it has been a hobby project (sponsored by Optimatika or [Anders Peterson](https://github.com/apete) personally).
+ojAlgo exists because, a long time ago, one of Optimatika's clients needed a (pure Java) QP solver. None were available, so we decided to build one. Since then ojAlgo has grown immensely in scope and capabilities. Over the years, maintenance and further development has in part been sponsored by various client projects, but mainly by Optimatika or [Anders Peterson](https://github.com/apete) personally.
 
 Optimatika provides ojAlgo support. We believe the best way to do this is to form long term partnerships with organisations (whos code base) depend on ojAlgo.
 
