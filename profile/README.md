@@ -1,4 +1,4 @@
-[<img src="https://github.com/optimatika/.github/assets/13863596/9eba94cf-d3b5-40e0-9441-e47ae0fa19fc" alt="Optimatika" height="200" align="right">](https://www.optimatika.se/)
+[<img src="https://github.com/optimatika/.github/assets/13863596/9eba94cf-d3b5-40e0-9441-e47ae0fa19fc" alt="Optimatika" height="300" align="right">](https://www.optimatika.se/)
 
 - Looking for ojAlgo support?
 
