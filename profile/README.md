@@ -1,20 +1,22 @@
+# Optimatika
 
-- Looking for ojAlgo support?
+We build mathematical optimisation tools for Java developers.
 
-- Need help to develop some feature based on ojAlgo?
+## ojAlgo
 
-- Perhaps not completely up to date on the math or modeling needed?
+[ojAlgo](https://github.com/optimatika/ojAlgo) is our open source library
+for linear algebra and mathematical optimisation on the JVM — pure Java,
+zero dependencies, MIT licensed. In development since 2003.
 
-- Want a skillful and experineced developer to join your team?
+## Optimisation Service
 
-# Optimatika can help with ALL those things!
+Solve LP, QP, and MIP problems via a simple API. One Maven dependency, no
+native code, no license servers. Formulate your model locally with
+ojAlgo's `ExpressionsBasedModel`, submit it, get the solution. Available
+on the cloud marketplaces — [learn more](https://www.optimatika.se/optimisation-service/).
 
-ojAlgo exists because, a long time ago, one of Optimatika's clients needed a (pure Java) QP solver. None were available, so we decided to build one. Since then ojAlgo has grown immensely in scope and capabilities. Over the years, maintenance and further development has in part been sponsored by various client projects, but mainly by Optimatika or [Anders Peterson](https://github.com/apete) personally.
+## Support & Consulting
 
-Optimatika provides ojAlgo support. We believe the best way to do this is to form long term partnerships with organisations (whos code base) depend on ojAlgo.
-
-Many organisation and development teams find it difficult to recruit talent.
-
-If you have, or plan to get, a dependency on ojAlgo AND is in need of additional developers, Optimatika can help you!
-
-The best way, for you, to assert continued development of ojAlgo is to team up with Optimatika.
+We provide priority support, model formulation guidance, and consulting
+for teams building on ojAlgo. Nobody knows the library better — we wrote
+it. [Get in touch](https://www.optimatika.se/contact/).
