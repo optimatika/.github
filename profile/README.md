@@ -12,8 +12,9 @@ zero dependencies, MIT licensed. In development since 2003.
 
 Solve LP, QP, and MIP problems via a simple API. One Maven dependency, no
 native code, no license servers. Formulate your model locally with
-ojAlgo's `ExpressionsBasedModel`, submit it, get the solution. Available
-on the cloud marketplaces — [learn more](https://www.optimatika.se/optimisation-service/).
+ojAlgo's `ExpressionsBasedModel`, submit it, get the solution. Coming to
+the AWS, Azure and Google Cloud marketplaces —
+[learn more](https://www.optimatika.se/optimisation-service/).
 
 ## Support & Consulting
 
