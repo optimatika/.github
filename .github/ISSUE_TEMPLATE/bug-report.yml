@@ -1,0 +1,95 @@
+# Organisation-wide default bug report form. Replaces the older bug_report.md.
+#
+# Note: GitHub does not allow a textarea with `render:` to be marked required, which
+# is why the reproducer field is not. The description does that work instead, and
+# more honestly.
+
+name: Bug report
+description: Something does not behave as documented or as expected.
+labels: ["bug"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For questions about how to model something, or how a class works, use
+        [Discussions](https://github.com/optimatika/ojAlgo/discussions) instead —
+        this form is for defects.
+
+  - type: textarea
+    id: what-happens
+    attributes:
+      label: What happens, and what did you expect instead?
+      placeholder: |
+        Cholesky.decompose(...) returns false for a matrix that is positive definite.
+        I expected it to succeed.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproducer
+    attributes:
+      label: Minimal reproducer
+      description: >
+        Self-contained Java that compiles against the library alone and shows the
+        problem. This is the single most useful thing you can provide — a bug with a
+        reproducer usually gets fixed, and one without usually does not.
+      render: java
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which area?
+      options:
+        - Linear algebra — matrices, stores, decompositions
+        - Optimisation — LP, QP, MIP, ExpressionsBasedModel
+        - Arrays and data structures
+        - Number types — complex, rational, quaternion, quadruple
+        - Data science — clustering, ANN, data processing
+        - Optimisation Service — server or client
+        - Other, or not sure
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Of the artifact this issue concerns.
+      placeholder: "ojAlgo 57.1.0"
+    validations:
+      required: true
+
+  - type: input
+    id: java-version
+    attributes:
+      label: Java version and distribution
+      placeholder: "Temurin 21.0.5"
+    validations:
+      required: true
+
+  - type: input
+    id: platform
+    attributes:
+      label: Operating system and architecture
+      description: Matters for off-heap memory, native access and threading. Optional.
+      placeholder: "macOS 15, arm64"
+
+  - type: textarea
+    id: optimisation-detail
+    attributes:
+      label: If this is an optimisation issue
+      description: >
+        Model size and which solver, if you know. Leave blank otherwise.
+      placeholder: |
+        ~12,000 variables, ~30,000 constraints, 400 of them integer.
+        Solved through ExpressionsBasedModel with the default integer solver.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched the existing issues and discussions.
+          required: true
+        - label: I checked whether this still happens on the latest release.
