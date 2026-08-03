@@ -11,7 +11,7 @@ Any/all code contributions should be done via pull requests, and before opening 
 - Is the change being proposed clearly explained and motivated?
 - Is it ready for review?
 - New code should have some level of tests.
-- Bug fixes should come with a test that demonstrate the bug and show that you've now fixed it.
+- Bug fixes should come with a test that demonstrates the bug and show that you've now fixed it.
 - Be prepared to have the proposed changes challenged...
 
 When you contribute code, you affirm that the contribution is your original work and that you
@@ -27,7 +27,7 @@ warrant that you have the legal authority to do so.
 
 ## Release Notes
 
-Each project keeps a changelog on a format inspired by [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). PR:s should also contain relevant updates to that log.
+Each project keeps a changelog in a format inspired by [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). PRs should also contain relevant updates to that log.
 
 ## Attribution
 
@@ -35,8 +35,8 @@ GitHub automatically keeps track of who contributed what, and if you've made a s
 
 ### Existing Tests
 
-The already existing tests needs some attention as well:
+The already existing tests need some attention as well:
 
-1. @Disabled  Essentially there should be no disabled tests. Rather than disabled they may be tagged "unstabe" or "slow". The only tests that potentially could be permanently annnnotated as disabled are some difficult optimisation problems. Find a test that is disbaled, and figure out why it is. Then either fix the problem or tag the "unstabe" or "slow" rather than leave it disabled.
-2. @Tag("unstable") There are some tests that sometimes fail due to randomly generated input. The solution here is typically NOT to set a fixed seed on the random number generator (or to otherwise "fix" the input). Instead the solution is to find the root cause of the test failure. When the tests fail - what happened? In many cases the problem seems to be related to complex number arithmatics. When/if you find the root problem, then create a separate test for that, and solve that problem.
+1. @Disabled  Essentially there should be no disabled tests. Rather than disabled they may be tagged "unstable" or "slow". The only tests that potentially could be permanently annotated as disabled are some difficult optimisation problems. Find a test that is disabled, and figure out why it is. Then either fix the problem or tag it "unstable" or "slow" rather than leave it disabled.
+2. @Tag("unstable") There are some tests that sometimes fail due to randomly generated input. The solution here is typically NOT to set a fixed seed on the random number generator (or to otherwise "fix" the input). Instead the solution is to find the root cause of the test failure. When the tests fail - what happened? In many cases the problem seems to be related to complex number arithmetic. When/if you find the root problem, then create a separate test for that, and solve that problem.
 3. @Tag("slow") Is it possible to reliably test the same thing faster?
