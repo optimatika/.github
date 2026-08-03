@@ -1,0 +1,17 @@
+# Organisation-wide default. Applies to every Optimatika repository that does not
+# have its own .github/ISSUE_TEMPLATE folder — note that having *any* file there
+# makes a repository ignore all of these defaults, not just the matching one.
+#
+# contact_links URLs are static; there is no way to point at "this repository's"
+# Discussions. ojAlgo's is the hub, so that is where questions go.
+
+blank_issues_enabled: true
+
+contact_links:
+  - name: Question or discussion
+    url: https://github.com/optimatika/ojAlgo/discussions
+    about: How do I model this, how does this class work, ideas, design — ask in Discussions.
+
+  - name: Commercial support
+    url: https://www.optimatika.se/contact/
+    about: In production and on a deadline? Private, prioritised support from Optimatika.
