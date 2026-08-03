@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Before you sumit this issue; did you try with the latest version?!
+Before you submit this issue — did you try the latest version?
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -19,7 +19,7 @@ Steps to reproduce the behavior:
 3. ...
 
 **Test Case**
-If possile, write a test that demonstrates the problem.
+If possible, write a test that demonstrates the problem.
 
 **Additional context**
 Add any other context about the problem here.
