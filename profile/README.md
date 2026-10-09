@@ -1,23 +1,30 @@
 # Optimatika
 
-We build mathematical optimisation tools for Java developers.
+We build mathematical optimization tools for Java developers.
 
 ## ojAlgo
 
-[ojAlgo](https://github.com/optimatika/ojAlgo) is our open source library
-for linear algebra and mathematical optimisation on the JVM — pure Java,
-zero dependencies, MIT licensed. In development since 2003.
+[ojAlgo](https://github.com/optimatika/ojAlgo) is our open source library for
+the JVM: LP, QP and MIP solvers and fast linear algebra, in pure Java with zero
+dependencies. MIT licensed, in development since 2003.
+Start with the [Optimisation Cookbook](https://www.ojalgo.org/optimisation-cookbook/).
+
+## For AI coding assistants
+
+[ojAlgo-skills](https://github.com/optimatika/ojAlgo-skills) teaches Claude,
+Codex and other assistants to write correct ojAlgo code: optimisation models,
+linear algebra and portfolio optimisation. Listed in Claude's plugin directory
+as *ojAlgo*.
 
 ## Optimisation Service
 
-Solve LP, QP, and MIP problems via a simple API. One Maven dependency, no
-native code, no license servers. Formulate your model locally with
-ojAlgo's `ExpressionsBasedModel`, submit it, get the solution. Coming to
-the AWS, Azure and Google Cloud marketplaces —
-[learn more](https://www.optimatika.se/optimisation-service/).
+When a model needs more than the built-in solvers, run the same model on
+HiGHS, SCIP and Clarabel. The Optimisation Service is a container you deploy in
+your own cloud or cluster; your Java code talks to it through a small client with
+no native code. [Learn more](https://www.optimatika.se/optimisation-service/).
 
-## Support & Consulting
+## Support
 
-We provide priority support, model formulation guidance, and consulting
-for teams building on ojAlgo. Nobody knows the library better — we wrote
-it. [Get in touch](https://www.optimatika.se/contact/).
+Priority support and consulting for teams building on ojAlgo, through one
+[subscription](https://www.optimatika.se/subscription/).
+Nobody knows the library better – we wrote it.
