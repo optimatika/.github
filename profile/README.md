@@ -18,10 +18,10 @@ as *ojAlgo*.
 
 ## Optimisation Service
 
-When a model needs more than the built-in solvers, run the same model on
-HiGHS, SCIP and Clarabel. The Optimisation Service is a container you deploy in
-your own cloud or cluster; your Java code talks to it through a small client with
-no native code. [Learn more](https://www.optimatika.se/optimisation-service/).
+When a model needs more solving power, run the same model on a best-of-breed
+suite of solvers. The Optimisation Service is a container you deploy in your own
+cloud or cluster, or try on the public shared instance; your Java code talks to it
+through a small client with no native code. [Learn more](https://www.optimatika.se/optimisation-service/).
 
 ## Support
 
