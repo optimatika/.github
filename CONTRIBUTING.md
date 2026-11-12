@@ -6,6 +6,8 @@ One very good way to contribute is to supply test cases that verify that the fun
 
 If something was hard to find or understand, but you've now got it, please contribute documentation.
 
+Contributing is also how you get help for free: questions in Discussions are answered for those who contribute something (see [SUPPORT.md](https://github.com/optimatika/.github/blob/master/SUPPORT.md)).
+
 Any/all code contributions should be done via pull requests, and before opening a PR consider:
 
 - Is the change being proposed clearly explained and motivated?

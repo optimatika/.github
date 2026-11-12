@@ -25,6 +25,7 @@ through a small client with no native code. [Learn more](https://www.optimatika.
 
 ## Support
 
-Priority support and consulting for teams building on ojAlgo, through one
+Open source both ways: bugs are welcome from anyone, and questions are answered
+for those who contribute something. If ojAlgo is part of your business, pay for
+support instead – private answers from the people who wrote it, through one
 [subscription](https://www.optimatika.se/subscription/).
-Nobody knows the library better – we wrote it.

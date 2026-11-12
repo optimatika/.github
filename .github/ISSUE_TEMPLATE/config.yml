@@ -10,8 +10,8 @@ blank_issues_enabled: true
 contact_links:
   - name: Question or discussion
     url: https://github.com/optimatika/ojAlgo/discussions
-    about: How do I model this, how does this class work, ideas, design — ask in Discussions.
+    about: Answered for those who contribute something — say what, or link your open source project.
 
   - name: Commercial support
     url: https://www.optimatika.se/contact/
-    about: In production and on a deadline? Private, prioritised support from Optimatika.
+    about: Is ojAlgo part of your business? Support cases start here.

@@ -32,8 +32,8 @@ body:
       label: Minimal reproducer
       description: >
         Self-contained Java that compiles against the library alone and shows the
-        problem. This is the single most useful thing you can provide — a bug with a
-        reproducer usually gets fixed, and one without usually does not.
+        problem. Every report is looked at, but this is the single most useful thing
+        you can provide — a reproducer is what most often turns a report into a fix.
       render: java
 
   - type: dropdown
